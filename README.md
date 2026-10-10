@@ -2,22 +2,21 @@
   <sub>
     <p align="center"><img src="src/assets/images/icon128.png" height="128" width="128"  alt="redeck icon"/></p>
   </sub>
-  ReDeck Chrome Extension
+  ReDeck
 </h3>
 <p align="center">
-ReDeck is a Chrome extension that turns X into a TweetDeck-style, multi-column workspace — directly at `x.com/redeck`.
+ReDeck turns X into a TweetDeck-style, multi-column workspace.
 </p>
 
 <p align="center">
-  <img alt="Chrome" src="/src/assets/images/chrome.svg" />
   <img alt="Manifest V3" src="/src/assets/images/manifest-v3.svg" />
   <img alt="TypeScript" src="/src/assets/images/typescript.svg" />
   <img alt="React" src="./src/assets/images/react.svg" />
 </p>
 
 <p align="center">
-  <a target="_blank" title="Chrome Web Store Link of ReDeck extension" href="https://chromewebstore.google.com/detail/redeck-%E2%80%94-multi-column-das/kbipcnjpdpicihheehhcmjmgdlaffbfi">
-    <img src="src/assets/images/chromeStoreBranding.svg" height="45" alt="Chrome Web Store Badge" />
+  <a target="_blank" title="Visit ReDeck Website" href="https://getredeck.com/">
+    <img src="src/assets/images/website-badge.svg" height="48" alt="ReDeck Website - getredeck.com" />
   </a>
 </p>
 
