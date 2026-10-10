@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="26" viewBox="0 0 102 26" fill="none">
+  <rect x="0.5" y="0.5" width="101" height="25" rx="5" fill="#0D1117" stroke="#30363D"/>
+  <g transform="translate(8, 6) scale(0.02734375)">
+            <path d="m406 335s-9 30-26 54-31 47-60 47c-23 0-35-15-61-15s-42 15-64 15-33-15-50-35c-44-55-62-146-38-194s59-58 84-58 48 16 63 16 38-17 68-17 59 13 74 38c-49 27-64 115 10 149M327 56c5 36-27 89-76 88-5-42 32-85 76-88" fill="#FFF"/>
+        </g>
+  <text x="28" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#E6EDF3">macOS App</text>
+</svg>

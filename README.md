@@ -9,9 +9,18 @@ ReDeck turns X into a TweetDeck-style, multi-column workspace.
 </p>
 
 <p align="center">
-  <img alt="Manifest V3" src="/src/assets/images/manifest-v3.svg" />
-  <img alt="TypeScript" src="/src/assets/images/typescript.svg" />
-  <img alt="React" src="./src/assets/images/react.svg" />
+  <img alt="TypeScript" src="src/assets/images/typescript.svg" />
+  <img alt="React" src="src/assets/images/react.svg" />
+</p>
+
+<p align="center">
+  <img src="src/assets/images/badge-chrome.svg" alt="Chrome Extension" />
+  &nbsp;
+  <img src="src/assets/images/badge-edge.svg" alt="Edge Extension" />
+  &nbsp;
+  <img src="src/assets/images/badge-macos.svg" alt="macOS App" />
+  &nbsp;
+  <img src="src/assets/images/badge-windows.svg" alt="Windows App" />
 </p>
 
 <p align="center">
@@ -82,10 +91,10 @@ ReDeck is local-first by design:
 - No analytics
 - No data collection
 
-All data is stored locally in your browser (IndexedDB via Dexie).
+All data is stored locally on your device (IndexedDB via Dexie).
 
 ## Tech Stack
-- Chrome Extension
+- Chrome & Edge Extensions, macOS & Windows Desktop
 - TypeScript + React 19
 - Tailwind CSS + Radix UI
 - Zustand + Immer

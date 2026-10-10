@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="26" viewBox="0 0 146 26" fill="none">
+  <rect x="0.5" y="0.5" width="145" height="25" rx="5" fill="#0D1117" stroke="#30363D"/>
+  <g transform="translate(8, 6) scale(0.02734375)">
+            <circle cx="256" cy="256" r="192" fill="#FCC11D"/>
+            <path d="m94 153a192 192 90 00162 295l82-142" fill="#289B48"/>
+            <path d="m89.72 160a192 192 90 01332.56 0H256l-82 146" fill="#E0392C"/>
+            <circle cx="256" cy="256" r="86" fill="#1A73E8" stroke="#FFF" stroke-width="20"/>
+        </g>
+  <text x="28" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#E6EDF3">Chrome Extension</text>
+</svg>

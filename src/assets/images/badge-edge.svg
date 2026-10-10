@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="26" viewBox="0 0 132 26" fill="none">
+  <rect x="0.5" y="0.5" width="131" height="25" rx="5" fill="#0D1117" stroke="#30363D"/>
+  <g transform="translate(8, 6) scale(0.02734375)">
+            <defs>
+                <radialGradient id="edge-a"><stop offset=".8" stop-color="#115599"/><stop offset="1" stop-color="#114488"/></radialGradient>
+                <radialGradient id="edge-b" cy=".7" r=".7"><stop offset=".8" stop-color="#1188dd"/><stop offset="1" stop-color="#0077aa"/></radialGradient>
+                <radialGradient id="edge-c" cx=".1" cy=".2" r="1"><stop offset=".4" stop-color="#33ccee"/><stop offset="1" stop-color="#33cc55"/></radialGradient>
+            </defs>
+            <path d="m233 214s-25 12-25 42a133 112 0 00202 94 6 6 0 019 7C316 514 90 454 187 237" fill="url(#edge-a)"/>
+            <path d="m300 153H94a192 192 0 00220 286 116 120.3-2 01-74-228 48 49 0 0164 41" fill="url(#edge-b)"/>
+            <path d="M64 253c4-110 186-138 233-31 26 70-34 65 3 88 71 30 159-7 147-102C400 3 75 16 64 253" fill="url(#edge-c)"/>
+        </g>
+  <text x="28" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#E6EDF3">Edge Extension</text>
+</svg>
